@@ -1,0 +1,37 @@
+{
+  "comments": [
+    {
+      "name": "Stanley",
+      "email": "stanley@gmail.com",
+      "message": "This is so cool",
+      "model": "Fit",
+      "id": 1
+    },
+    {
+      "name": "Dan",
+      "email": "dan@gmail.com",
+      "message": "Never regretted buying this!",
+      "model": "CX-F",
+      "id": 1
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "message": "It's never been better",
+      "model": "Ridgeline",
+      "id": 2
+    },
+    {
+      "name": "Denko",
+      "email": "denko@gmail.com",
+      "message": "I like it's tires",
+      "id": 3
+    },
+    {
+      "name": "shiller",
+      "email": "shiller@gmail.com",
+      "message": "Kinda loving it",
+      "id": 4
+    }
+  ]
+}
