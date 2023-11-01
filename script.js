@@ -1,6 +1,3 @@
-//document.addEventListener('DOMContentLoaded', function() {
-  //  fetchBooks();
- // });
 //SEARCH
 
 searchForm.addEventListener("submit",(e)=>{
